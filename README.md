@@ -1,4 +1,4 @@
-# Hacker News NextJS
+# NextJS Portofolio Git
 
 ### Installation
 
