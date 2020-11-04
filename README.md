@@ -23,10 +23,5 @@ $ npm run build
 $ now
 ```
 
-### Package
-
-- isomorphic-fetch
-- nprogress
-
 ### Live Demo
 https://next-porto.yomaswn.now.sh/
